@@ -1,4 +1,4 @@
-# Time Tracker Landing Page
+# Chronos Tracker
 
 A modern landing page for a time tracking application built with React, TypeScript, and Tailwind CSS.
 
@@ -85,4 +85,3 @@ src/
 ├── App.tsx          # Main app component
 └── main.tsx         # Entry point
 ```
-# time-tracker-landing
