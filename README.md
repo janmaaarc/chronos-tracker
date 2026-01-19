@@ -85,4 +85,4 @@ src/
 ├── App.tsx          # Main app component
 └── main.tsx         # Entry point
 ```
-# time-tracker-landing-
+# time-tracker-landing
